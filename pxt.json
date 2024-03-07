@@ -6,7 +6,8 @@
         "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
         "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0",
         "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
-        "controller": "*"
+        "controller": "*",
+        "sprite-scaling": "*"
     },
     "files": [
         "main.blocks",
